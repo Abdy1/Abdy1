@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @Abdy
-- 👀 I’m a full stack developer
-- 🌱 I'm currently working in one of the best banks of Ethiopia...
-  
-
+👋 Hi, I’m @Abdy
+👀 Full Stack Developer | Backend: Java | Frontend: Angular, React
+🌱 Currently working at one of the top banks in Ethiopia
