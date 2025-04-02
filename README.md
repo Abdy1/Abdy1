@@ -4,4 +4,4 @@
 👀 Full Stack Developer | Java, Python, Typescript
 
 
-🌱 Currently working at one of the top banks in Ethiopia
+🌱 Currently working at A2SV backed by google. 
